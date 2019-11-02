@@ -1,0 +1,32 @@
+{
+  
+"cast": [
+ 
+   	"worker",
+
+    	"drone",
+
+    	"queen"
+ 
+ ],
+
+  "health":[
+    
+	"healthy",
+ 
+   	"varoa",
+ 
+   	"few varoa"
+ 
+ ],
+
+  "species": [
+
+    	"italian honey bee",
+
+    	"russian honey bee"
+ 
+ ]
+  
+
+}
