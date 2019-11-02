@@ -1,6 +1,6 @@
 # DataLabel
 datalabel images using a json config file 
-
+The created csv is not yet easily configurable.
 ## USAGE : 
 click on "choose" to choose the folder where all the pictures you want to label are
 
